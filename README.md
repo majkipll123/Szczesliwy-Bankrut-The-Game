@@ -1,1 +1,1 @@
-# AlphaGym
+# Szczęśliwy bankrut the game
